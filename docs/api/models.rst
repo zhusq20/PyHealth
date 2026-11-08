@@ -227,6 +227,7 @@ API Reference
     models/pyhealth.models.EHRMambaCEHR
     models/pyhealth.models.JambaEHR
     models/pyhealth.models.ContraWR
+    models/pyhealth.models.CLIPStress
     models/pyhealth.models.SparcNet
     models/pyhealth.models.StageNet
     models/pyhealth.models.StageAttentionNet
